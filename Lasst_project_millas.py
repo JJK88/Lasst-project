@@ -69,3 +69,5 @@ for item,value in ruta4.items():
 
 print(f'Con tus millas acumuladas podes ir hasta la ciudad de {ciudad}')
 print(f'Millas remanentes {millas_remanentes}')
+
+#hola como estas 
